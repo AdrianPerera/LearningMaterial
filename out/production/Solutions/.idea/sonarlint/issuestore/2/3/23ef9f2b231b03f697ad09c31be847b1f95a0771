@@ -1,0 +1,14 @@
+
+^
+java:S49730"<Strings and Boxed types should be compared using "equals()".(çÿÂĞÿÿÿÿÿ8¿÷‰Í«1
+Y
+java:S49733"<Strings and Boxed types should be compared using "equals()".(¸óã÷8¿÷‰Í«1
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(–‡âƒ8Ñ÷‰Í«1
+U	java:S106+"9Replace this use of System.out or System.err by a logger.( °Áö8Ñ÷‰Í«1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(²œòéÿÿÿÿÿ8Ò÷‰Í«1
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(˜âëª8Ò÷‰Í«1
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Å÷Ø”úÿÿÿÿ8Ò÷‰Í«1
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(ÂëÍ8¬ÁŠÍ«1
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8±€‹Í«1
+V
+java:S1128"4Remove this unused import 'java.security.PublicKey'.(ºâú½üÿÿÿÿ8Ó÷‰Í«1
